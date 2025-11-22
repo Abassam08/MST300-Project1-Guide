@@ -353,6 +353,10 @@ If you find this guide helpful, please consider giving it a star! ⭐
 
 ---
 
+### ☕ Support the Project
+If this guide helped you, consider supporting my work:  
+https://buymeacoffee.com/Asabra1
+
 ## 🔎 Project Keywords (SEO & Discoverability)
 
 This project is associated with the following topics, helping students and recruiters discover it more easily through GitHub and search engines:

@@ -124,7 +124,7 @@ MST300-project1-rg (Resource Group)
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/MST300-Project1-Guide.git
+   git clone https://github.com/abassam08/MST300-Project1-Guide.git
    cd MST300-Project1-Guide
    ```
 
